@@ -25,6 +25,6 @@ Test Case including: Title, Preconditions, Steps to Test: <br/>
 <br />
 Created Test in Zephyr including: Test Steps and Expected Result,<br/>
   <br/>
-<img src="./Screenshots/test_case_2.png" height="80%" width="80%" alt="Report Bottom"/>
+<img src="./images/test_case_2.png" height="80%" width="80%" alt="Report Bottom"/>
 <br />
 <br />
